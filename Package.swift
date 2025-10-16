@@ -17,8 +17,8 @@ let package = Package(
 	targets: [
 		.binaryTarget(
 			name: "VNWebSDK",
-			url: "https://venuenext.jfrog.io/artifactory/ios-sdk/ios-sdk-v3.2.1-xcframework-xcode14.2.0.zip",
-			checksum: "3bf50f3a05d823a958b36076da596cbb504523fa31452f21bead011b04f84f60"
+			url: "https://venuenext.jfrog.io/artifactory/ios-sdk/ios-sdk-v3.3.0-xcframework-xcode14.2.0.zip",
+			checksum: "40aa2442bd2337baedefdc1c6fdcf88e7d072126f952706f315ddf785b42fe6f"
 		)
 	]
 )
